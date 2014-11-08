@@ -1,4 +1,4 @@
-function Arnoldfunc(Image,Frequency,crypt)
+function Arnoldfunc(Image,Frequency)
 %
 Q=imread(Image);
 M = Q ;
